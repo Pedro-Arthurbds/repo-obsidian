@@ -1,4 +1,3 @@
-Preciso começar a ler mais, e fazer a minha irma fazer o mesmo.
+Preciso começar a ler mais, e fazer a minha irmã fazer o mesmo.
 
 Livros:
-O hobit

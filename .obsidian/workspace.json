@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Ideias/Projeto barber.md",
+                "file": "Programação/node/Node.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projeto barber"
+              "title": "Node.js"
             }
           }
         ]
@@ -203,11 +203,11 @@
   },
   "active": "41d345d5c12ffb15",
   "lastOpenFiles": [
-    "Programação/node/Node.js.md",
+    "README.md",
     "2. Ideias/Projeto barber.md",
+    "Programação/node/Node.js.md",
     "Programação/Sem título",
     "2025-12-05.md",
-    "README.md",
     "0. Inbox/2025.11.28.md",
     "Sem título.base",
     "0. Inbox/2025-12-05.md",

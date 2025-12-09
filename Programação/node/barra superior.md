@@ -1,3 +1,6 @@
+
+[[Projeto barber]]
+
 import Link from "next/link"
 
 import SvgIcon from "../components/Logo"

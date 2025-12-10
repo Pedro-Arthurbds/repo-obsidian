@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programação/barra superior.md",
+                "file": "Programação/node/Sem título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "barra superior"
+              "title": "Sem título"
             }
           }
         ]
@@ -154,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Programação/node/Sem título.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Sumário de Sem título"
             }
           },
           {
@@ -203,12 +204,13 @@
   },
   "active": "41d345d5c12ffb15",
   "lastOpenFiles": [
+    "Pasted image 20251210141718.png",
+    "2. Ideias/Projeto barber.md",
     "Programação/node/Sem título.md",
     "Programação/barra superior.md",
     "Programação/node/Node.js.md",
     "0. Inbox/2025-12-06.md",
     "0. Inbox/2025.11.28.md",
-    "2. Ideias/Projeto barber.md",
     "README.md",
     "Programação/Sem título",
     "2025-12-05.md",

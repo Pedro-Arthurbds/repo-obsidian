@@ -188,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,11 +202,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41d345d5c12ffb15",
+  "active": "c62ba3839094c092",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Programação/node/Sem título.md",
+    "Programação/node/barra superior.md",
     "Pasted image 20251210141718.png",
     "2. Ideias/Projeto barber.md",
-    "Programação/node/Sem título.md",
     "Programação/barra superior.md",
     "Programação/node/Node.js.md",
     "0. Inbox/2025-12-06.md",

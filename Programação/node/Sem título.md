@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 agendamento
+=======
+  [[Projeto barber]]
+>>>>>>> origin/main
 
 
 ![[Pasted image 20251210141718.png]]

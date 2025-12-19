@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programação/node/Sem título.md",
+                "file": "2. Ideias/Projeto barber.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "Projeto barber"
             }
           }
         ]
@@ -202,18 +202,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c62ba3839094c092",
+  "active": "41d345d5c12ffb15",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Programação/node/Sem título.md",
-    "Programação/node/barra superior.md",
+    "README.md",
     "Pasted image 20251210141718.png",
+    "0. Inbox/2025-12-19.md",
+    "0. Inbox/2025-12-06.md",
+    "conflict-files-obsidian-git.md",
+    "Programação/node/barra superior.md",
     "2. Ideias/Projeto barber.md",
     "Programação/barra superior.md",
     "Programação/node/Node.js.md",
-    "0. Inbox/2025-12-06.md",
     "0. Inbox/2025.11.28.md",
-    "README.md",
     "Programação/Sem título",
     "2025-12-05.md",
     "Sem título.base",

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5e155127718a76a4",
+        "id": "ed9c1994513f5d0e",
         "type": "tabs",
         "children": [
           {
-            "id": "5d97847e9b496f2f",
+            "id": "e83b50b9a36f504e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "3.Referencias/Backend.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Backend"
             }
           }
         ]
@@ -29,6 +33,7 @@
       {
         "id": "b7db6cff53415d46",
         "type": "tabs",
+        "dimension": 55.16224188790561,
         "children": [
           {
             "id": "06f0aea6af0a1255",
@@ -68,6 +73,23 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "41057a5645743725",
+        "type": "tabs",
+        "dimension": 44.83775811209439,
+        "children": [
+          {
+            "id": "5d97847e9b496f2f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -184,32 +206,34 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 408.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "graph:Abrir visualização em gráfico": false
     }
   },
-  "active": "5d97847e9b496f2f",
+  "active": "e83b50b9a36f504e",
   "lastOpenFiles": [
-    "README.md",
-    "Pasted image 20251210141718.png",
-    "Programação/node/Sem título.md",
-    "Sem título.base",
-    "2. Ideias/Livros.md",
-    "2. Ideias/Projeto barber.md",
     "0. Inbox/2025-12-19.md",
+    "3.Referencias/Backend.md",
+    "0. Inbox/2026-01-05.md",
+    "Programação/node/Sem título.md",
+    "Pasted image 20251210141718.png",
+    "README.md",
+    "Sem título.base",
+    "2. Ideias/Projeto barber.md",
     "0. Inbox/2025-12-06.md",
-    "conflict-files-obsidian-git.md",
     "Programação/node/barra superior.md",
+    "2. Ideias/Livros.md",
+    "conflict-files-obsidian-git.md",
     "Programação/barra superior.md",
     "Programação/node/Node.js.md",
     "0. Inbox/2025.11.28.md",

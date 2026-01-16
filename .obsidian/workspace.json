@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Chave",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +62,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -75,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "41057a5645743725",
@@ -96,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 251.5
   },
   "right": {
     "id": "a44b83f6dfef0549",
@@ -112,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3.Referencias/Backend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para Backend"
             }
           },
           {
@@ -220,15 +222,17 @@
       "graph:Abrir visualização em gráfico": false
     }
   },
-  "active": "e83b50b9a36f504e",
+  "active": "c62ba3839094c092",
   "lastOpenFiles": [
-    "0. Inbox/2025-12-19.md",
+    "Sem título.md",
+    "Sem título.base",
+    "Programação/node/Ubuntu.md",
     "3.Referencias/Backend.md",
+    "0. Inbox/2025-12-19.md",
     "0. Inbox/2026-01-05.md",
     "Programação/node/Sem título.md",
     "Pasted image 20251210141718.png",
     "README.md",
-    "Sem título.base",
     "2. Ideias/Projeto barber.md",
     "0. Inbox/2025-12-06.md",
     "Programação/node/barra superior.md",

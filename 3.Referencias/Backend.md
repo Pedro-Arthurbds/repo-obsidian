@@ -12,3 +12,15 @@ Sequelize
 
 # Banco de dados
 
+SGBD -> Sistema de gestão de baco de dados
+Modelo E/R
+
+Relacionamentos de dados
+
+1 -> 1 
+1 -> N
+N -> N
+###### Chave Primaria (pk)
+	.Unica
+	.Não Vazia
+	.Não Muda

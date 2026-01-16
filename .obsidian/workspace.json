@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ed9c1994513f5d0e",
+        "id": "0b134aa0d4b11fe8",
         "type": "tabs",
         "children": [
           {
-            "id": "e83b50b9a36f504e",
+            "id": "8fabbcac48896765",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Referencias/Backend.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Backend"
+              "title": "Nova aba"
             }
           }
         ]
@@ -33,7 +29,7 @@
       {
         "id": "b7db6cff53415d46",
         "type": "tabs",
-        "dimension": 55.16224188790561,
+        "dimension": 68.14964610717897,
         "children": [
           {
             "id": "06f0aea6af0a1255",
@@ -72,16 +68,15 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "41057a5645743725",
         "type": "tabs",
-        "dimension": 44.83775811209439,
+        "dimension": 31.85035389282103,
         "children": [
           {
             "id": "5d97847e9b496f2f",
@@ -113,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Referencias/Backend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Backend"
+              "title": "Backlinks"
             }
           },
           {
@@ -224,16 +218,17 @@
   },
   "active": "c62ba3839094c092",
   "lastOpenFiles": [
-    "Sem título.md",
+    "2. Ideias/Projeto barber.md",
+    "Sem título.canvas",
     "Sem título.base",
-    "Programação/node/Ubuntu.md",
+    "Sem título.md",
     "3.Referencias/Backend.md",
+    "Programação/node/Ubuntu.md",
     "0. Inbox/2025-12-19.md",
     "0. Inbox/2026-01-05.md",
     "Programação/node/Sem título.md",
     "Pasted image 20251210141718.png",
     "README.md",
-    "2. Ideias/Projeto barber.md",
     "0. Inbox/2025-12-06.md",
     "Programação/node/barra superior.md",
     "2. Ideias/Livros.md",

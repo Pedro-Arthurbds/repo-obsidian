@@ -3,11 +3,11 @@ Res -> Envia os dados
 
 Nodemon -> reinicia automaticamente ao salvar o arquivo - vamos salvar como dependência de desenvolvimento (--save-dev)
 
-
+pm2 -> Gerencia varios micros serviços voltado para PRODUÇÃO
 
 ### Duvidas
 
-Orm
+Orm -> mapa
 Sequelize
 
 # Banco de dados

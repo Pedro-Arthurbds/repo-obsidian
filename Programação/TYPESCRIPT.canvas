@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"13a76defc86a3db2","type":"text","text":"TIPAGEM ESTATICA","x":0,"y":-245,"width":205,"height":50,"color":"5"},
+		{"id":"4ccac722d3e10357","type":"text","text":"EXPLICITAMENTE DECLARADO","x":180,"y":-165,"width":200,"height":50,"color":"5"},
+		{"id":"2b92971f04ec6d40","type":"text","text":"TIPAGEM DINAMICA","x":-380,"y":-245,"width":205,"height":50,"color":"1"},
+		{"id":"8b5d72ef66c929e2","type":"text","text":"NÃO DECLARAMOS A VARIAVEL","x":-200,"y":-165,"width":200,"height":50,"color":"1"},
+		{"id":"2ba00792ec26c45c","type":"text","text":"ALTERA LIVREMENTE","x":-200,"y":-85,"width":200,"height":50,"color":"1"},
+		{"id":"e66057e54af286c0","type":"text","text":"VALORES NAO ALTERADOS","x":180,"y":-85,"width":200,"height":50,"color":"5"},
+		{"id":"2ec151ee6a846782","type":"text","text":"VANTAGENS","x":-80,"y":15,"width":205,"height":50,"color":"4"},
+		{"id":"015895427b0fda5f","type":"text","text":"PREVINIR ERROS DE TIPAGENS","x":55,"y":155,"width":250,"height":50,"color":"4"},
+		{"id":"99892ce601799b72","type":"text","text":"POPULAR","x":55,"y":340,"width":250,"height":60,"color":"4"},
+		{"id":"9d8f448e7b0b7737","type":"text","text":"FACIL PARA IDENTIFICAR ERROS","x":55,"y":205,"width":250,"height":60,"color":"4"},
+		{"id":"90e69471a54a88a5","type":"text","text":"CODIGO MAIS LEGIVEL","x":55,"y":270,"width":250,"height":60,"color":"4"},
+		{"id":"f5cd447184440d3d","type":"text","text":"RECURSOS AVANÇADOS DO JS","x":55,"y":90,"width":250,"height":60,"color":"4"},
+		{"id":"a94502d1bffe5eea","type":"text","text":"DESVANTAGEM","x":-460,"y":15,"width":162,"height":50,"color":"1"},
+		{"id":"a90fb53a7158b61b","type":"text","text":"MAIS CODIGO","x":-340,"y":90,"width":200,"height":60,"color":"1"},
+		{"id":"4937b5dc488f8a9b","type":"text","text":"CURVA DE APRENDIZADO","x":-340,"y":155,"width":200,"height":50,"color":"1"},
+		{"id":"df2cf3260fbcc5f8","type":"text","text":"REQUER COMPILAÇÃO PARA JAVASCRIPT","x":-340,"y":220,"width":200,"height":80,"color":"1"}
+	],
+	"edges":[
+		{"id":"3b3b6ce3c2f0057b","fromNode":"2b92971f04ec6d40","fromSide":"bottom","toNode":"8b5d72ef66c929e2","toSide":"left"},
+		{"id":"ca2ab26a2eb894ad","fromNode":"2b92971f04ec6d40","fromSide":"bottom","toNode":"2ba00792ec26c45c","toSide":"left"},
+		{"id":"b2aac83f0577cc30","fromNode":"13a76defc86a3db2","fromSide":"bottom","toNode":"4ccac722d3e10357","toSide":"left"},
+		{"id":"b96f2c03a4cbea87","fromNode":"13a76defc86a3db2","fromSide":"bottom","toNode":"e66057e54af286c0","toSide":"left"},
+		{"id":"619ff3ba940ff640","fromNode":"2ec151ee6a846782","fromSide":"bottom","toNode":"015895427b0fda5f","toSide":"left"},
+		{"id":"7f238b7a24452faf","fromNode":"2ec151ee6a846782","fromSide":"bottom","toNode":"9d8f448e7b0b7737","toSide":"left"},
+		{"id":"09a5e74e2d927542","fromNode":"2ec151ee6a846782","fromSide":"bottom","toNode":"90e69471a54a88a5","toSide":"left"},
+		{"id":"d77a37987967715c","fromNode":"2ec151ee6a846782","fromSide":"bottom","toNode":"99892ce601799b72","toSide":"left"},
+		{"id":"569d3ebbf04fa801","fromNode":"a94502d1bffe5eea","fromSide":"bottom","toNode":"a90fb53a7158b61b","toSide":"left"},
+		{"id":"c8593e2d5ca8498b","fromNode":"a94502d1bffe5eea","fromSide":"bottom","toNode":"4937b5dc488f8a9b","toSide":"left"},
+		{"id":"f05161060b22f09b","fromNode":"a94502d1bffe5eea","fromSide":"bottom","toNode":"df2cf3260fbcc5f8","toSide":"left"},
+		{"id":"2db7aefac7c5f82f","fromNode":"2ec151ee6a846782","fromSide":"bottom","toNode":"f5cd447184440d3d","toSide":"left"}
+	]
+}

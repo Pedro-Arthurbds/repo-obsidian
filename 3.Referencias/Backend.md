@@ -9,7 +9,8 @@ pm2 -> Gerencia varios micros serviços voltado para PRODUÇÃO
 
 Orm -> mapa
 Sequelize
-
+Interface -> Typescript
+ 
 # Banco de dados
 
 SGBD -> Sistema de gestão de baco de dados
@@ -24,3 +25,8 @@ N -> N
 	.Unica
 	.Não Vazia
 	.Não Muda
+
+Compilar arquivo TS para JS
+```
+npx tsc
+```

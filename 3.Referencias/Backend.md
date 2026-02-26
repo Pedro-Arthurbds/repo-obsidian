@@ -30,3 +30,12 @@ Compilar arquivo TS para JS
 ```
 npx tsc
 ```
+
+## Node
+iniciar projeto -> `npm init -y` // '-y' e pra aceitar tudo
+Rodar o projeto -> `node 'index.js'` //nome do arquivo 
+
+## Mongodb
+
+mongoose = gerenciador do back para o db
+instalar -> `npm install mongoose`

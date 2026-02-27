@@ -6,16 +6,16 @@
 		{"id":"8b5d72ef66c929e2","type":"text","text":"NÃO DECLARAMOS A VARIAVEL","x":-200,"y":-165,"width":200,"height":50,"color":"1"},
 		{"id":"2ba00792ec26c45c","type":"text","text":"ALTERA LIVREMENTE","x":-200,"y":-85,"width":200,"height":50,"color":"1"},
 		{"id":"e66057e54af286c0","type":"text","text":"VALORES NAO ALTERADOS","x":180,"y":-85,"width":200,"height":50,"color":"5"},
-		{"id":"2ec151ee6a846782","type":"text","text":"VANTAGENS","x":-80,"y":15,"width":205,"height":50,"color":"4"},
 		{"id":"015895427b0fda5f","type":"text","text":"PREVINIR ERROS DE TIPAGENS","x":55,"y":155,"width":250,"height":50,"color":"4"},
 		{"id":"99892ce601799b72","type":"text","text":"POPULAR","x":55,"y":340,"width":250,"height":60,"color":"4"},
 		{"id":"9d8f448e7b0b7737","type":"text","text":"FACIL PARA IDENTIFICAR ERROS","x":55,"y":205,"width":250,"height":60,"color":"4"},
 		{"id":"90e69471a54a88a5","type":"text","text":"CODIGO MAIS LEGIVEL","x":55,"y":270,"width":250,"height":60,"color":"4"},
-		{"id":"f5cd447184440d3d","type":"text","text":"RECURSOS AVANÇADOS DO JS","x":55,"y":90,"width":250,"height":60,"color":"4"},
-		{"id":"a94502d1bffe5eea","type":"text","text":"DESVANTAGEM","x":-460,"y":15,"width":162,"height":50,"color":"1"},
 		{"id":"a90fb53a7158b61b","type":"text","text":"MAIS CODIGO","x":-340,"y":90,"width":200,"height":60,"color":"1"},
 		{"id":"4937b5dc488f8a9b","type":"text","text":"CURVA DE APRENDIZADO","x":-340,"y":155,"width":200,"height":50,"color":"1"},
-		{"id":"df2cf3260fbcc5f8","type":"text","text":"REQUER COMPILAÇÃO PARA JAVASCRIPT","x":-340,"y":220,"width":200,"height":80,"color":"1"}
+		{"id":"df2cf3260fbcc5f8","type":"text","text":"REQUER COMPILAÇÃO PARA JAVASCRIPT","x":-340,"y":220,"width":200,"height":80,"color":"1"},
+		{"id":"a94502d1bffe5eea","type":"text","text":"DESVANTAGEM","x":-560,"y":15,"width":162,"height":50,"color":"1"},
+		{"id":"2ec151ee6a846782","type":"text","text":"VANTAGENS","x":-140,"y":15,"width":205,"height":50,"color":"4"},
+		{"id":"f5cd447184440d3d","type":"text","text":"RECURSOS AVANÇADOS DO JS","x":55,"y":90,"width":250,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"3b3b6ce3c2f0057b","fromNode":"2b92971f04ec6d40","fromSide":"bottom","toNode":"8b5d72ef66c929e2","toSide":"left"},

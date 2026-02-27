@@ -39,3 +39,10 @@ Rodar o projeto -> `node 'index.js'` //nome do arquivo
 
 mongoose = gerenciador do back para o db
 instalar -> `npm install mongoose`
+
+
+## DUVIDAS
+
+	aero function ()=>{}
+	metodos http delete/post/get
+	async / await

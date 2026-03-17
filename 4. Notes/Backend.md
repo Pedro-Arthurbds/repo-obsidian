@@ -46,3 +46,5 @@ instalar -> `npm install mongoose`
 	aero function ()=>{}
 	metodos http delete/post/get
 	async / await
+	try/catch
+	props

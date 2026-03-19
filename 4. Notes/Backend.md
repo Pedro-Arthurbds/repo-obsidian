@@ -40,7 +40,12 @@ instalar -> `npm install mongoose`
 	aero function ()=>{}
 	metodos http delete/post/get
 	async / await
+<<<<<<< HEAD
 	arquitetura mvc
 	Orm -> mapa
 	Sequelize
 	Interface -> Typescript
+=======
+	try/catch
+	props
+>>>>>>> origin/main

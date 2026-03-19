@@ -4,12 +4,6 @@ Res -> Envia os dados
 Nodemon -> reinicia automaticamente ao salvar o arquivo - vamos salvar como dependência de desenvolvimento (--save-dev)
 
 pm2 -> Gerencia varios micros serviços voltado para PRODUÇÃO
-
-### Duvidas
-
-Orm -> mapa
-Sequelize
-Interface -> Typescript
  
 # Banco de dados
 
@@ -46,3 +40,7 @@ instalar -> `npm install mongoose`
 	aero function ()=>{}
 	metodos http delete/post/get
 	async / await
+	arquitetura mvc
+	Orm -> mapa
+	Sequelize
+	Interface -> Typescript

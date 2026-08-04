@@ -48,4 +48,10 @@ instalar -> `npm install mongoose`
 =======
 	try/catch
 	props
+<<<<<<< HEAD
+>>>>>>> origin/main
+=======
+	Orm -> mapa
+	Sequelize
+	Interface -> Typescript
 >>>>>>> origin/main

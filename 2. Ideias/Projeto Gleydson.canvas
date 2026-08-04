@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"a9374a5dd061a878","type":"text","text":"Medidor de pressão","x":120,"y":-409,"width":210,"height":57},
+		{"id":"e35d00024e4c77ff","type":"text","text":"app de sincronizaçao","x":-170,"y":60,"width":210,"height":60},
+		{"id":"4dcf70ac868f9a19","type":"text","text":"samsung health / goggle","x":-20,"y":-80,"width":200,"height":60},
+		{"id":"cb8f7290d895875e","type":"text","text":"(Dados)\n-Frequência cardíaca\n-Oxigenação\n-Pressão","x":-20,"y":-260,"width":200,"height":123},
+		{"id":"73a0ecb5911bd3fb","type":"text","text":"Bot para Whatsapp","x":300,"y":300,"width":250,"height":60},
+		{"id":"b8d56268cdaf2a04","type":"text","text":"n8n","x":100,"y":220,"width":80,"height":50},
+		{"id":"fc9ffc9f76d768fd","type":"text","text":"Relogio\n(samsung)","x":-200,"y":-409,"width":180,"height":56},
+		{"id":"2d65e4ba07a2d689","x":250,"y":-225,"width":150,"height":54,"type":"text","text":"Seu app (tbm)"}
+	],
+	"edges":[
+		{"id":"7919ffa7bd1b6ae2","fromNode":"fc9ffc9f76d768fd","fromSide":"right","toNode":"a9374a5dd061a878","toSide":"left","toEnd":"none"},
+		{"id":"e035badff0507633","fromNode":"fc9ffc9f76d768fd","fromSide":"bottom","toNode":"cb8f7290d895875e","toSide":"top"},
+		{"id":"65a0962515600003","fromNode":"a9374a5dd061a878","fromSide":"bottom","toNode":"cb8f7290d895875e","toSide":"top"},
+		{"id":"8c8c4bca7a3cd22a","fromNode":"cb8f7290d895875e","fromSide":"bottom","toNode":"4dcf70ac868f9a19","toSide":"top"},
+		{"id":"1f5e64ce59db394e","fromNode":"fc9ffc9f76d768fd","fromSide":"bottom","toNode":"4dcf70ac868f9a19","toSide":"left"},
+		{"id":"95fd36ad85a67a73","fromNode":"b8d56268cdaf2a04","fromSide":"right","toNode":"73a0ecb5911bd3fb","toSide":"top"},
+		{"id":"eaf4f037c7ffb036","fromNode":"4dcf70ac868f9a19","fromSide":"bottom","toNode":"e35d00024e4c77ff","toSide":"top"},
+		{"id":"928aa21610c162fe","fromNode":"e35d00024e4c77ff","fromSide":"bottom","toNode":"b8d56268cdaf2a04","toSide":"top"},
+		{"id":"cca50890097cfde3","fromNode":"a9374a5dd061a878","fromSide":"bottom","toNode":"2d65e4ba07a2d689","toSide":"top"}
+	]
+}

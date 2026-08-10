@@ -2,23 +2,22 @@
 #### NOTAS A PAGAR
 
 - [x] Papelaria do Vô Chico - 661,70 (Tios Externa)
-- [ ] Papelaria Scardua - Sara Gomes (Capela)
+- [x] Papelaria Scardua - Sara Gomes (Capela)
 - [x] Armarinho Febreira - Tinta (tapete capela)
-- [x] Ana CArolina (Tata) - (garçom)
-- [ ] Papelaria do Soro - Secretaria
+	- [x] Ana CArolina (Tata) - (garçom)
 - [x] Comercial mattedi
-- [ ] GLP eXPRESS
+- [x] GLP eXPRESS
 - [x] SANDY (PIX)
 - [ ] CACA (PIX)
 - [x] LUCAS (PIX)
-- [ ] PRAÇA OITO
-- [ ] ARNALDO
+- [x] PRAÇA OITO
+- [x] ARNALDO
 - [x] SCALA
 - [x] VO CHICO PAPELARIA
 - [x] LINDOMAR
 - [x] FRANCIANE
-- [ ] PAPELARIA CAMILO
+- [x] PAPELARIA CAMILO
 - [ ] PAPELARIA DA CRIS
-- [ ] POLPAS COVRE
-- [ ] KAMILA (PIX)
-- [ ] VELAS (PIX)
+- [x] POLPAS COVRE
+- [x] KAMILA (PIX)
+- [x] VELAS (PIX)

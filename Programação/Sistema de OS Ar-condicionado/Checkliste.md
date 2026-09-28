@@ -1,9 +1,5 @@
-Fundação do projeto
-- [x] Criar projeto Next.js
-- [x] Configurar TypeScript
-- [x] Configurar Tailwind
-- [x] Configurar PostgreSQL via Docker
-- [x] Configurar Prisma 7
-- [x] Configurar adapter PostgreSQL
-- [x] Configurar variáveis de ambiente
-- [x] Configurar estrutura inicial de pastas
+utilizar api para puxar o cep automatico
+trocar campo de resposanvel no cadastro do chamado
+status do cliente
+manutenção preventiva no detalhamento do chamado
+campo de cliente cadastrado digitar em vez de escolher

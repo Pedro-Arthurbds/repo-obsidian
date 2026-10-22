@@ -1,1 +1,0 @@
-- [ ] Aula de logica ifes

@@ -8,3 +8,4 @@ Aharadak -> fez a mente do cara para "romper o veu e trazer a tormenta"
 
 
 EMPERIO01  segue unificando determinada região 
+

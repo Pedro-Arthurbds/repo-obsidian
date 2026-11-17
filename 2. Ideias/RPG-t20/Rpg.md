@@ -8,6 +8,6 @@ Mundo medieval, um dos continentes aconteceu a mesma coisa da china antiga (king
 campanha acontecer pre tormenta ( rei/mago louco iniciou)
 Aharadak -> fez a mente do cara para "romper o veu e trazer a tormenta"
 
-7 emperios ao todo
+5 emperios ao todo
 EMPERIO01  segue unificando determinada região 
 

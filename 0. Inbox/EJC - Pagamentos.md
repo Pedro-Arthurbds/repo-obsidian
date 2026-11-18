@@ -1,10 +1,10 @@
 EJC TENHO QUE PAGAR
 
-- [ ] colombo 
+- [x] colombo
 - [x] ARMARINHO FERREIRA  - R$9
 - [x] PADARIA SÃO CRISTOVÃO - IPÉ R$ 119,68
 - [x] PAPELARIA DO VÓ CHICO - R$ 48
-- [ ] PAPELARIA CAMILO - R$ 65 -> falta 20 reais
+- [x] PAPELARIA CAMILO - R$ 65 -> falta 20 reais
 - [x] COVRE BEBIDAS - R$ 73
 - [x] MUNDO MAGICO - R$ 97.28
 - [x] JB MATERIAL DE CONSTRUÇÃO - R$61

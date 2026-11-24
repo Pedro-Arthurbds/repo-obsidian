@@ -15,6 +15,7 @@ https://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@github.com/Pedro-Arthurbds/repo
 
 > [!tip] Painel de Conhecimento
 > Ponto de partida para acompanhar matérias, revisar conteúdos e planejar os próximos tópicos de aprendizado.
+> Para entender a dinâmica geral das pastas, atalhos e plugins, consulte o [[Guia do Cofre]].
 
 ---
 
